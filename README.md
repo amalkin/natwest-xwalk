@@ -6,11 +6,11 @@ A demo NatWest-branded banking site built on **AEM Edge Delivery Services (EDS)*
 
 | Environment | URL |
 |---|---|
-| Author (edit content here) | https://author-p189773-e1977501.adobeaemcloud.com |
-| Preview (previewed content) | https://main--natwest-xwalk--skiper76.aem.page/ |
-| Live (published content) | https://main--natwest-xwalk--skiper76.aem.live/ |
-| GitHub repo | https://github.com/Skiper76/natwest-xwalk |
-| Cloud Manager program | "DEMO POT EMEA Program 6 - Natwest" |
+| Author (edit content here) | https://author-p46152-e633525.adobeaemcloud.com |
+| Preview (previewed content) | https://main--natwest-xwalk--amalkin.aem.page/ |
+| Live (published content) | https://main--natwest-xwalk--amalkin.aem.live/ |
+| GitHub repo | https://github.com/amalkin/natwest-xwalk |
+| Cloud Manager program | "adobe_alastair_malkin" |
 
 To edit a page, open it on the **author** host and append `?cmd=open` via the Sidekick, or open the page directly in Universal Editor from AEM Sites.
 
